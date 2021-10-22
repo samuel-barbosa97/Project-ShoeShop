@@ -1,7 +1,22 @@
-# UI - Shoe Shopping 👟
+<h1 align="center">
+  <img alt="UI" src="https://o.remove.bg/downloads/0e9cf9bc-5cc8-44c0-a6ad-84bc3376fd91/ui-removebg-preview.png" width="120px" />
+</h1>
 
-Trabalhando os conceitos de UI (User Interface), é apresentado o conceito de uma loja, responsiva e adptativa aos formatos de tela mobile e desktop.
+<h3 align="center">
+  Shoe Card - UI/UX
+</h3>
 
-Utilizando HTML e CSS.
+<p align="center">Neste projeto é desenvolvido um card de produtos de uma loja de tênis, utilizando os conceitos de responsividade e UI/UX</p>
 
-![nikesb](https://user-images.githubusercontent.com/89155684/131963971-d5fbcfdf-8f83-4474-8f08-8c3acfcc41f2.png)
+## 🚀 Tecnologias
+
+- 💡 HTML
+- ⚡ CSS 
+
+## ✋🏻 Pré-requisitos
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
