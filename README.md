@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="UI" src="https://o.remove.bg/downloads/0e9cf9bc-5cc8-44c0-a6ad-84bc3376fd91/ui-removebg-preview.png" width="120px" />
+  <img alt="Shoe Shop" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F99designs.com%2Finspiration%2Flogos%2Fshoe&psig=AOvVaw3vBGZ0uxg-nUasKuTMPkbI&ust=1642788420921000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLCLjPj1wPUCFQAAAAAdAAAAABAD" width="120px" />
 </h1>
 
 <h3 align="center">
-  Shoe Card - UI/UX
+  Shoe Card
 </h3>
 
-<p align="center">Neste projeto é desenvolvido um card de produtos de uma loja de tênis, utilizando os conceitos de responsividade e UI/UX</p>
+<p align="center">Neste projeto é desenvolvido um card de produtos de uma loja de tênis, utilizando os conceitos de responsividade</p>
 
 ## 🚀 Tecnologias
 
