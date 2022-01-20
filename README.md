@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Shoe Shop" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F99designs.com%2Finspiration%2Flogos%2Fshoe&psig=AOvVaw3vBGZ0uxg-nUasKuTMPkbI&ust=1642788420921000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLCLjPj1wPUCFQAAAAAdAAAAABAD" width="120px" />
+  <img alt="Shoe Shop" src="https://images-platform.99static.com//8zaWS3tQ9IbCxiRWTfz8DAFxjwA=/751x751:1500x1500/fit-in/590x590/projects-files/34/3424/342457/81535792-71c3-4aa8-a412-b05ca7e9aefe.jpg" width="120px" />
 </h1>
 
 <h3 align="center">
